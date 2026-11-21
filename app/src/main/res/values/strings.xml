@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Floating Clock</string>
+    <string name="title">นาฬิกาลอย</string>
+    <string name="instructions">เปิดนาฬิกาแล้วลากไปยังตำแหน่งที่ต้องการ จากนั้นเปิดแอปที่จะถ่ายและใช้ปุ่มแคปหน้าจอของเครื่อง</string>
+    <string name="allow_overlay">อนุญาตให้แสดงทับแอปอื่น</string>
+    <string name="start_clock">เปิดนาฬิกาลอย</string>
+    <string name="stop_clock">ปิดนาฬิกาลอย</string>
+    <string name="show_seconds">แสดงวินาที</string>
+    <string name="large_clock">ตัวเลขขนาดใหญ่</string>
+    <string name="lock_clock">ล็อกตำแหน่งและให้แตะทะลุ</string>
+    <string name="clock_channel">นาฬิกาลอย</string>
+    <string name="clock_running">นาฬิกาลอยกำลังแสดง</string>
+    <string name="overlay_error">เปิดนาฬิกาลอยไม่สำเร็จ โปรดตรวจสอบสิทธิ์แสดงทับแอปอื่น</string>
+</resources>
